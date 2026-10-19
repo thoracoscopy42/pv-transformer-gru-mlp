@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+*.pt
+*.csv
+*.pkl
+*.xls
+*.xlsx
+*.joblib
+*.pickle
+*.parquet
+*.feather
+
 # Distribution / packaging
 .Python
 build/
